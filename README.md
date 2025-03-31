@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Imagify](https://imagify-puneeth.vercel.app/)** – a text-to-image generation SaaS application.
 - 🌱 I’m expanding my knowledge in **TypeScript** and advanced backend architectures.
 - 💬 Ask me about anything related to **React.js, Node.js, and MongoDB**.
 - 📫 Reach me at: [reachout.puneeth@gmail.com](mailto:reachout.puneeth@gmail.com)
