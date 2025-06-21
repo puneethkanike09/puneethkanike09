@@ -5,15 +5,6 @@
 
 ---
 
-## 🌟 LEGENDARY STATUS UNLOCKED
-- 🦄 **Unicorn Debugger** - Can spot semicolon errors from 50 miles away
-- 🎯 **Async/Await Samurai** - Slices through callback hell with precision
-- 🔮 **Database Necromancer** - Brings dead queries back to life
-- 🚀 **Deployment Astronaut** - Has personally launched 420 apps to production space
-- 🐛 **Bug Bounty Hunter** - Wanted in 37 programming languages
-
----
-
 ## 🎪 CIRCUS OF SKILLS
 ![Ninja](https://img.shields.io/badge/JavaScript_Ninja-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
 ![Wizard](https://img.shields.io/badge/React_Wizard-4ECDC4?style=for-the-badge&logo=react&logoColor=white)
