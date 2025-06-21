@@ -38,24 +38,6 @@
 
 ---
 
-## 🎪 LEGENDARY CREATIONS
-- **[MindMeld](https://totally-not-real-url.com)**  
-  AI that reads your mind and codes your thoughts (Side effects may include existential crisis)
-  
-- **[PetConnect](https://dogs-and-cats-coding.com)**  
-  Dating app for programmers and their rubber ducks
-  
-- **[ShopTillYouDrop](https://infinite-scroll-nightmare.com)**  
-  E-commerce site that never stops loading products (RIP users' RAM)
-  
-- **[JobMagnet](https://hired-in-5-seconds.com)**  
-  Job portal that guarantees employment before you finish your first commit
-  
-- **[HouseFinder](https://mansion-for-pennies.com)**  
-  Real estate app that finds castles in the cloud (AWS charges not included)
-
----
-
 ## 🎯 CURRENT MISSIONS
 - 🧬 Experimenting with quantum computing to solve merge conflicts
 - 🎨 Teaching AI to appreciate good UX design
